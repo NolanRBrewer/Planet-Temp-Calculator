@@ -2,7 +2,7 @@
 ## About This Project
 This project started out as a simple curiosity. One day while watching youtube I wondered how hard it would be to convert equations into code. When I finished implementing a blackbody calculator I wanted to have a way to calculate the temperature of a body with a single layer of atmosphere that absorbs all infrared radiation. With that desire came the need for a way to obtain the solar constant of a planet based upon its distance from a star.
 ## How to use
-As of this stage in the project you will have to download the Temperature Calculator folder and open the folder in an integrated terminal (I use VScode). After doing so you can enter commands 
+Clone this repo and execute the script in a terminal. After doing so you can enter commands.
 ## Features 
 To check the rule set of each feature. 
     ```
