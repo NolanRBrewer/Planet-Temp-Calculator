@@ -8,7 +8,7 @@ To check the rule set of each feature.
     ```
     python [file_name.py] rules
     ```
-### Blackbody tmeperature
+### Blackbody temperature
 Calculating the blackbody temperature of a planet will require four inputs; The temperature of the star, the percentage of light reflected by the planet (albedo), the radius of the planet's orbit in Astronomical Units, and the radius of the star in Astronomical Units.
 Valid commands are structured as such: 
     ```
